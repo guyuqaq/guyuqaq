@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center" style="font-weight: 900; background: linear-gradient(90deg, #ff6f91, #845ec2, #d65db1); -webkit-background-clip: text; color: transparent;">
-  IM GUYU <br/>
-  <span style="color:#FF9671;">F</span>OCK <br/>
+  私は GUYU <br/>
+  <span style="color:#FF9671;">くそ</span>ったれ <br/>
   MIHOYO
 </h1>
 
