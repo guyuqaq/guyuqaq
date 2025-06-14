@@ -24,16 +24,9 @@
 
 ---
 
-<p align="center" style="font-size: 30px;">
-  <span style="animation: blink 1.5s infinite;">🌸🌸🌸</span>
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" alt="Blinking Cherry Blossoms" width="100"/>
 </p>
-
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.3; }
-}
-</style>
 
 ---
 
@@ -44,7 +37,8 @@
 
 ---
 
-<!-- 花瓣飘落动画 -->
+<!-- 花瓣飘落动画（GitHub不支持CSS动画，这段可选） -->
+<!--
 <div style="position: fixed; pointer-events: none; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999;">
   <svg width="100%" height="100%">
     <defs>
@@ -68,3 +62,5 @@
     </g>
   </svg>
 </div>
+-->
+
