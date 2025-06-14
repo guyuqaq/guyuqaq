@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.loliapi.com/acg/" alt="Anime Background" width="320" style="border-radius: 20px; box-shadow: 0 0 15px #ff69b4"/>
+  <img src="https://www.loliapi.com/acg/?t=1686790234" alt="Anime Background" />
 </p>
 
 <h1 align="center" style="font-weight: 900; background: linear-gradient(90deg, #ff6f91, #845ec2, #d65db1); -webkit-background-clip: text; color: transparent;">
